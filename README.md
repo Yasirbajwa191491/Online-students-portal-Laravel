@@ -1,0 +1,21 @@
+<h1 >Installation:</h1>
+
+<h3>To Install this code just follow below steps, its easier than you think</h3>
+<p> 1 : Start xamp and run it </p>
+<p> 2 : Create a database named "fyp" in your php myAdmin of xamp</p>
+<p> 3 : Go to fyp folder and open it in vs code and in terminal of vs code type (php artisan serve )</p>
+                                            <b>  -- OR -- </b>
+<p> Open ternimal in fyp folder and type  (php artisan serve ) </p>
+<p> 4 : After that a url will be generated like this one :  http://127.0.0.1:8000/ just go to that url </p>
+<p> 5 : In browser go to http://127.0.0.1:8000/install and click on the button. By clicking button all sql tables will be imported in your database named fyp</p>
+<p> 6 : After that , you will be redirected to a page where you can create an admin user</p>
+<p> 7 : Home page will be opened after creating admin account and than you can explor next in website</p>
+ 
+ <h1>Requirements :</h1>
+ <p>Laravel 9</p>
+ <p>PHP 8</p>
+ <p>xamp</p>
+ 
+ <h1>Complete Video :</h1>
+ <a href="https://www.youtube.com/watch?v=43Kd7wWKguE&feature=youtu.be&ab_channel=saqibjaved">Gcians portal video</a>
+ 
